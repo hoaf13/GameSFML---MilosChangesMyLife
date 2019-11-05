@@ -1,0 +1,15 @@
+path/Intro/thunder2/0.gif
+path/Intro/thunder2/1.gif
+path/Intro/thunder2/2.gif
+path/Intro/thunder2/3.gif
+path/Intro/thunder2/4.gif
+path/Intro/thunder2/5.gif
+path/Intro/thunder2/6.gif
+path/Intro/thunder2/8.gif
+path/Intro/thunder2/9.gif
+path/Intro/thunder2/10.gif
+path/Intro/thunder2/11.gif
+path/Intro/thunder2/12.gif
+path/Intro/thunder2/13.gif
+path/Intro/thunder2/14.gif
+path/Intro/thunder2/15.gif

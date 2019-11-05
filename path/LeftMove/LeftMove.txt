@@ -1,0 +1,6 @@
+path/LeftMove/0.png
+path/LeftMove/1.png
+path/LeftMove/2.png
+path/LeftMove/3.png
+path/LeftMove/4.png
+path/LeftMove/5.png

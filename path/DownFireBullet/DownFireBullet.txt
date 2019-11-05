@@ -1,0 +1,5 @@
+path/DownFireBullet/0.gif
+path/DownFireBullet/1.gif
+path/DownFireBullet/2.gif
+path/DownFireBullet/3.gif
+path/DownFireBullet/4.gif
