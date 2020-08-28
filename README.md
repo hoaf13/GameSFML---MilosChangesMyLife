@@ -2,6 +2,7 @@
 ![image](https://img.shields.io/badge/sfml-2.5.1-blue) ![image](https://img.shields.io/badge/C%2B%2B-CPP17-blue) ![image](https://img.shields.io/badge/meme-ricardo--milos-red)
 
 ![reborn](https://i.ibb.co/xFZLL1s/2.gif) ![reborn](https://i.ibb.co/xFZLL1s/2.gif) ![reborn](https://i.ibb.co/xFZLL1s/2.gif) ![reborn](https://i.ibb.co/xFZLL1s/2.gif) ![reborn](https://i.ibb.co/xFZLL1s/2.gif) ![reborn](https://i.ibb.co/xFZLL1s/2.gif) ![reborn](https://i.ibb.co/xFZLL1s/2.gif) 
+
 **MilosChangesMyLife**, which is A GAME CREATED BY SFML LIBRARY, is my first personal project. 
 
 ### Some of objects 
