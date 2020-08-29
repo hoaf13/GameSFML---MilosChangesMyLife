@@ -6,7 +6,7 @@
 **MilosChangesMyLife**, which is A GAME CREATED BY SFML LIBRARY, is my first personal project. 
 
 ### Some objects 
-![fire](https://i.ibb.co/syfgmYg/fire-Bullet.gif) ![rightMove](https://i.ibb.co/YPDz2DL/right-Move.gif) ![leftMove](https://i.ibb.co/m9J4Rtb/leftMove.gif) ![heart](https://i.ibb.co/sVk9M99/health.png) ![chibaku](https://im2.ezgif.com/tmp/ezgif-2-feb4afdee0e2.gif)
+![fire](https://i.ibb.co/syfgmYg/fire-Bullet.gif) ![rightMove](https://i.ibb.co/YPDz2DL/right-Move.gif) ![leftMove](https://i.ibb.co/m9J4Rtb/leftMove.gif) ![heart](https://i.ibb.co/sVk9M99/health.png) ![chibaku](https://i.ibb.co/wB20kjM/chibaku.gif)
 
 ### Let's GO !
 ![ricardoIntro](https://i.ibb.co/wMwBKxq/Ricardo-Intro.gif)
