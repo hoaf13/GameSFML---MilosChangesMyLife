@@ -5,7 +5,7 @@
 
 **MilosChangesMyLife**, which is A GAME CREATED BY SFML LIBRARY, is my first personal project. 
 
-### Some of objects 
+### Some objects 
 ![fire](https://i.ibb.co/syfgmYg/fire-Bullet.gif) ![rightMove](https://i.ibb.co/YPDz2DL/right-Move.gif) ![leftMove](https://i.ibb.co/m9J4Rtb/leftMove.gif) ![heart](https://i.ibb.co/sVk9M99/health.png) ![chibaku](https://im2.ezgif.com/tmp/ezgif-2-feb4afdee0e2.gif)
 
 ### Let's GO !
@@ -15,13 +15,13 @@
 ![stage1](https://i.ibb.co/MG9NThC/stag1.gif)
 
 ### Stage 2:
-![stage1](https://i.ibb.co/K28yFKx/stage2.gif)
+![stage2](https://i.ibb.co/K28yFKx/stage2.gif)
 
 ### Stage 3:
-![stage1](https://i.ibb.co/R9jC3M5/stage3.gif)
+![stage3](https://i.ibb.co/R9jC3M5/stage3.gif)
 
 ### Stage 4:
-![stage1](https://i.ibb.co/YW2DGL7/last-Scene.gif)
+![stage4](https://i.ibb.co/YW2DGL7/last-Scene.gif)
 
 Detail in this [video](https://www.facebook.com/watch/?v=760253384387972) from 1:14 to 2:27
 
